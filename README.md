@@ -1,2 +1,2 @@
-# Shopping-Buddy
-A shopping website
+# Authentication using Number plate detection and Face Recognition
+
